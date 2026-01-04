@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Ana",
+        "edad": 10,
+        "ansiedad": 1,
+        "diagnostico": "BAJO RIESGO",
+        "plan": "Control Anual + Melatonina + NOTIFICAR PADRES",
+        "fecha": "2026-01-04 17:37"
+    },
+    {
+        "nombre": "Baltasar",
+        "edad": 50,
+        "ansiedad": 9,
+        "diagnostico": "ALTO RIESGO",
+        "plan": "Psiquiatr\u00eda + Meditaci\u00f3n + Melatonina",
+        "fecha": "2026-01-04 17:37"
+    },
+    {
+        "nombre": "Tomas",
+        "edad": 14,
+        "ansiedad": 1,
+        "diagnostico": "BAJO RIESGO",
+        "plan": "Control Anual + NOTIFICAR PADRES",
+        "fecha": "2026-01-04 17:37"
+    },
+    {
+        "nombre": "Simon",
+        "edad": 30,
+        "ansiedad": 1,
+        "diagnostico": "BAJO RIESGO",
+        "plan": "Control Anual",
+        "fecha": "2026-01-04 17:37"
+    }
+]

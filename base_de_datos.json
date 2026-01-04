@@ -1,0 +1,17 @@
+[
+    {
+        "nombre": "Baltasar",
+        "edad": 23,
+        "riesgo": "Alto"
+    },
+    {
+        "nombre": "Pedro",
+        "edad": 45,
+        "riesgo": "Bajo"
+    },
+    {
+        "nombre": "Ana",
+        "edad": 12,
+        "riesgo": "Medio"
+    }
+]
