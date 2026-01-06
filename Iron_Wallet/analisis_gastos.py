@@ -1,4 +1,4 @@
-import pandas as pd
+cimport pandas as pd
 import json
 
 print ("---🕵️‍♂️ ANALISIS FINANCIERO IRON WALLET ----")
